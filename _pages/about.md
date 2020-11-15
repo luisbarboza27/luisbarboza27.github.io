@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 Luis A. Barboza is professor and researcher in the [Mathematics Department](http://www.emate.ucr.ac.cr/) and [Centro de Matemática Pura y Aplicada](http://cimpa.ucr.ac.cr/) at the [Universidad de Costa Rica](https://www.ucr.ac.cr/).  
 
 # Research Interests
