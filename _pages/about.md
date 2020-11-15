@@ -18,3 +18,8 @@ Luis A. Barboza is professor and researcher in the [Mathematics Department](http
 * Applications of Statistical Learning techniques to epidemiological and climate modeling.
 * Parameter Estimation of Long-Memory Processes.
 * Functional data analysis.
+
+# Research Groups
+
+* [Laboratorio de Estadística Ambiental](https://lea-ucr.github.io/LEA-UCR) (LEA)
+* [Epidemias, Modelación Matemática, Estadística y Computación](https://epimec-cr.org/) (EpiMEC)
