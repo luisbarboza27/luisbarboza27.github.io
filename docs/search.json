@@ -7,13 +7,6 @@
     "text": "Luis A. Barboza is professor and researcher in the Mathematics Department and Centro de Investigación en Matemática Pura y Aplicada at the Universidad de Costa Rica."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Luis A. Barboza",
@@ -21,11 +14,11 @@
     "text": "Education\nPurdue University | Indiana, USA\nPhD Statistics | December 2012\nPurdue University | Indiana, USA\nMS Statistics with Specialization in Computational Finance | August 2011\nUniversidad de Costa Rica | San José, CR\nMSc Applied Mathematics | July 2007\nUniversidad de Costa Rica | San José, CR\nBachelor Actuarial Science | December 2003"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Luis A. Barboza",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "research.html",
@@ -46,6 +39,6 @@
     "href": "research.html#preprints",
     "title": "Research",
     "section": "Preprints",
-    "text": "Preprints\n\nGómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2022). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. https://doi.org/10.21203/rs.3.rs-2274291/v1\nBarboza, L. A., Chou, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. C., & Sanchez, F. (2022). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. https://doi.org/10.48550/ARXIV.2204.01483\nBarboza, L. A., Chen, S. W. C., & Córdoba, M. A. (2022). Spatio-temporal downscaling emulator for regional Climate Models: A comparative study. https://doi.org/10.48550/ARXIV.2206.03914\nGarcía, Y. E., Barboza, L. A., Sanchez, F., Vásquez, P., & Calvo, J. G. (2021). Wavelet analysis of dengue incidence and its correlation with weather and vegetation variables in Costa Rica. https://doi.org/10.48550/ARXIV.2107.05740"
+    "text": "Preprints\n\nGarcia, Y. E., Chou-Chen, S.-W., Barboza, L. A., Daza-Torres, M. L., Montesinos-Lopez, J. C., Vasquez, P., Calvo, J. G., Nuno, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A Wavelet Approach. https://doi.org/10.48550/ARXIV.2301.02286\nGómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2022). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. https://doi.org/10.21203/rs.3.rs-2274291/v1\nBarboza, L. A., Chou, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. C., & Sanchez, F. (2022). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. https://doi.org/10.48550/ARXIV.2204.01483\nBarboza, L. A., Chen, S. W. C., & Córdoba, M. A. (2022). Spatio-temporal downscaling emulator for regional Climate Models: A comparative study. https://doi.org/10.48550/ARXIV.2206.03914"
   }
 ]

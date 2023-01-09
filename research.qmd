@@ -29,10 +29,10 @@ For a complete list of publications, please check my [ORCID user](https://orcid.
 
 ## Preprints
 
-1.  Gómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2022). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. <https://doi.org/10.21203/rs.3.rs-2274291/v1>
+1.  Garcia, Y. E., Chou-Chen, S.-W., Barboza, L. A., Daza-Torres, M. L., Montesinos-Lopez, J. C., Vasquez, P., Calvo, J. G., Nuno, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A Wavelet Approach. <https://doi.org/10.48550/ARXIV.2301.02286>
 
-2.  Barboza, L. A., Chou, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. C., & Sanchez, F. (2022). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. <https://doi.org/10.48550/ARXIV.2204.01483>
+2.  Gómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2022). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. <https://doi.org/10.21203/rs.3.rs-2274291/v1>
 
-3.  Barboza, L. A., Chen, S. W. C., & Córdoba, M. A. (2022). Spatio-temporal downscaling emulator for regional Climate Models: A comparative study. <https://doi.org/10.48550/ARXIV.2206.03914>
+3.  Barboza, L. A., Chou, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. C., & Sanchez, F. (2022). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. <https://doi.org/10.48550/ARXIV.2204.01483>
 
-4.  García, Y. E., Barboza, L. A., Sanchez, F., Vásquez, P., & Calvo, J. G. (2021). Wavelet analysis of dengue incidence and its correlation with weather and vegetation variables in Costa Rica. <https://doi.org/10.48550/ARXIV.2107.05740>
+4.  Barboza, L. A., Chen, S. W. C., & Córdoba, M. A. (2022). Spatio-temporal downscaling emulator for regional Climate Models: A comparative study. <https://doi.org/10.48550/ARXIV.2206.03914>
