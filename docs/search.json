@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "luisbarboza27.github.io",
+    "title": "Luis A. Barboza",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Luis A. Barboza is professor and researcher in the Mathematics Department and Centro de Investigación en Matemática Pura y Aplicada at the Universidad de Costa Rica."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Luis A. Barboza",
+    "section": "Education",
+    "text": "Education\nPurdue University | Indiana, USA\nPhD Statistics | December 2012\nPurdue University | Indiana, USA\nMS Statistics with Specialization in Computational Finance | August 2011\nUniversidad de Costa Rica | San José, CR\nMSc Applied Mathematics | July 2007\nUniversidad de Costa Rica | San José, CR\nBachelor Actuarial Science | December 2003"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Luis A. Barboza",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Bayesian estimation of spatio-temporal models.\nSpace-State models and applications to Paleoclimate Reconstructions.\nBayesian estimation of Dynamical Systems. Applications to epidemiological models.\nApplications of Statistical Learning techniques to epidemiological and climate modeling."
+  },
+  {
+    "objectID": "research.html#recent-publications",
+    "href": "research.html#recent-publications",
+    "title": "Research",
+    "section": "Recent Publications",
+    "text": "Recent Publications\nFor a complete list of publications, please check my ORCID user or Google Scholar.\n\nCalvo, J. G., Sanchez, F., Barboza, L. A., García, Y. E., & Vásquez, P. (2022). An implementation of a multilayer network model for the Covid-19 pandemic: A Costa Rica study. Mathematical Biosciences and Engineering: MBE, 20(1), 534–551. https://doi.org/10.3934/mbe.2023024.\nVásquez, P., Sanchez, F., Barboza, L. A., García, Y. E., Calvo, J. G., Chou-Chen, S.-W., & Mery, G. (2022). Mathematical and statistical models for the control of mosquito-borne diseases: the experience of Costa Rica. Revista Panamericana de Salud Publica [Pan American Journal of Public Health], 46, e113. https://doi.org/10.26633/RPSP.2022.113\nSanchez, F., Calvo, J. G., Mery, G., García, Y. E., Vásquez, P., Barboza, L. A., Pérez, M. D., & Rivas, T. (2022). A multilayer network model of Covid-19: Implications in public health policy in Costa Rica. Epidemics, 39(100577), 100577. https://doi.org/10.1016/j.epidem.2022.100577\nGarcía, Y. E., Mery, G., Vásquez, P., Calvo, J. G., Barboza, L. A., Rivas, T., & Sanchez, F. (2022). Projecting the impact of Covid-19 variants and vaccination strategies in disease transmission using a multilayer network model in Costa Rica. Scientific Reports, 12(1), 2279. https://doi.org/10.1038/s41598-022-06236-1\nMontesinos-López, J. C., Daza-Torres, M. L., García, Y. E., Barboza, L. A., Sanchez, F., Schmidt, A. J., Pollock, B. H., & Nuño, M. (2021). The role of SARS-CoV-2 testing on hospitalizations in California. Life (Basel, Switzerland), 11(12), 1336. https://doi.org/10.3390/life11121336\nBarboza, L. A., Vásquez, P., Mery, G., Sanchez, F., García, Y. E., Calvo, J. G., Rivas, T., Pérez, M. D., & Salas, D. (2021). The role of mobility and sanitary measures on the delay of community transmission of COVID-19 in Costa Rica. Epidemiolgia (Basel, Switzerland), 2(3), 294–304. https://doi.org/10.3390/epidemiologia2030022\nLücke, O. H., Vega Fernández, A., Varela Sánchez, M., Barboza, L. A., & Garbanzo-León, J. (2021). The improvements of the Costa Rican ground-based gravity dataset as a result of a comprehensive attribute and spatial assessment of the historical databases. Applied Geomatics. https://doi.org/10.1007/s12518-021-00356-5"
+  },
+  {
+    "objectID": "research.html#preprints",
+    "href": "research.html#preprints",
+    "title": "Research",
+    "section": "Preprints",
+    "text": "Preprints\n\nGómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2022). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. https://doi.org/10.21203/rs.3.rs-2274291/v1\nBarboza, L. A., Chou, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. C., & Sanchez, F. (2022). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. https://doi.org/10.48550/ARXIV.2204.01483\nBarboza, L. A., Chen, S. W. C., & Córdoba, M. A. (2022). Spatio-temporal downscaling emulator for regional Climate Models: A comparative study. https://doi.org/10.48550/ARXIV.2206.03914\nGarcía, Y. E., Barboza, L. A., Sanchez, F., Vásquez, P., & Calvo, J. G. (2021). Wavelet analysis of dengue incidence and its correlation with weather and vegetation variables in Costa Rica. https://doi.org/10.48550/ARXIV.2107.05740"
   }
 ]

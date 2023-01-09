@@ -1,11 +1,34 @@
 ---
-title: "luisbarboza27.github.io"
+title: "Luis A. Barboza"
+about:
+  template: solana
+  image: profile.png
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:luisalberto.barboza@ucr.ac.cr
+    - icon: github
+      text: Github
+      href: https://github.com/luisbarboza27
+    - text: CV
+      icon: file-text
+      href: CV.pdf
 ---
 
-This is a Quarto website.
+Luis A. Barboza is professor and researcher in the [Mathematics Department](http://www.emate.ucr.ac.cr/) and [Centro de Investigación en Matemática Pura y Aplicada](http://cimpa.ucr.ac.cr/) at the [Universidad de Costa Rica](https://www.ucr.ac.cr/).  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+Purdue University | Indiana, USA  
+PhD Statistics | December 2012
+
+Purdue University | Indiana, USA  
+MS Statistics with Specialization in Computational Finance | August 2011
+
+Universidad de Costa Rica | San José, CR  
+MSc Applied Mathematics | July 2007
+
+Universidad de Costa Rica | San José, CR  
+Bachelor Actuarial Science | December 2003
+
