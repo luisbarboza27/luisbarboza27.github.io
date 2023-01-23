@@ -13,22 +13,21 @@ about:
       href: https://github.com/luisbarboza27
     - text: CV
       icon: file-text
-      href: CV.pdf
+      href: CV_LB.pdf
 ---
 
-Luis A. Barboza is professor and researcher in the [Mathematics Department](http://www.emate.ucr.ac.cr/) and [Centro de Investigación en Matemática Pura y Aplicada](http://cimpa.ucr.ac.cr/) at the [Universidad de Costa Rica](https://www.ucr.ac.cr/).  
+Luis A. Barboza is professor and researcher in the [Mathematics Department](http://www.emate.ucr.ac.cr/) and [Centro de Investigación en Matemática Pura y Aplicada](http://cimpa.ucr.ac.cr/) at the [Universidad de Costa Rica](https://www.ucr.ac.cr/).
 
 ## Education
 
-Purdue University | Indiana, USA  
-PhD Statistics | December 2012
+Purdue University \| Indiana, USA\
+PhD Statistics \| December 2012
 
-Purdue University | Indiana, USA  
-MS Statistics with Specialization in Computational Finance | August 2011
+Purdue University \| Indiana, USA\
+MS Statistics with Specialization in Computational Finance \| August 2011
 
-Universidad de Costa Rica | San José, CR  
-MSc Applied Mathematics | July 2007
+Universidad de Costa Rica \| San José, CR\
+MSc Applied Mathematics \| July 2007
 
-Universidad de Costa Rica | San José, CR  
-Bachelor Actuarial Science | December 2003
-
+Universidad de Costa Rica \| San José, CR\
+Bachelor Actuarial Science \| December 2003
