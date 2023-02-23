@@ -13,21 +13,21 @@ title: "Research"
 
 For a complete list of publications, please check my [ORCID user](https://orcid.org/0000-0002-7009-5207) or [Google Scholar](https://scholar.google.com/citations?user=gzstLXwAAAAJ&hl=es).
 
-1.  Barboza, L. A., Chou-Chen, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. PLoS Neglected Tropical Diseases, 17(1), e0011047. <https://doi.org/10.1371/journal.pntd.0011047>
+1.  Barboza, L. A., Chou-Chen, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. *PLoS Neglected Tropical Diseases*, 17(1), e0011047. <https://doi.org/10.1371/journal.pntd.0011047>
 
-2.  Calvo, J. G., Sanchez, F., Barboza, L. A., García, Y. E., & Vásquez, P. (2022). An implementation of a multilayer network model for the Covid-19 pandemic: A Costa Rica study. Mathematical Biosciences and Engineering: MBE, 20(1), 534--551. <https://doi.org/10.3934/mbe.2023024>.
+2.  Calvo, J. G., Sanchez, F., Barboza, L. A., García, Y. E., & Vásquez, P. (2022). An implementation of a multilayer network model for the Covid-19 pandemic: A Costa Rica study. *Mathematical Biosciences and Engineering: MBE*, 20(1), 534--551. <https://doi.org/10.3934/mbe.2023024>.
 
-3.  Vásquez, P., Sanchez, F., Barboza, L. A., García, Y. E., Calvo, J. G., Chou-Chen, S.-W., & Mery, G. (2022). Mathematical and statistical models for the control of mosquito-borne diseases: the experience of Costa Rica. Revista Panamericana de Salud Publica \[Pan American Journal of Public Health\], 46, e113. <https://doi.org/10.26633/RPSP.2022.113>
+3.  Vásquez, P., Sanchez, F., Barboza, L. A., García, Y. E., Calvo, J. G., Chou-Chen, S.-W., & Mery, G. (2022). Mathematical and statistical models for the control of mosquito-borne diseases: the experience of Costa Rica. *Revista Panamericana de Salud Publica* \[Pan American Journal of Public Health\], 46, e113. <https://doi.org/10.26633/RPSP.2022.113>
 
-4.  Sanchez, F., Calvo, J. G., Mery, G., García, Y. E., Vásquez, P., Barboza, L. A., Pérez, M. D., & Rivas, T. (2022). A multilayer network model of Covid-19: Implications in public health policy in Costa Rica. Epidemics, 39(100577), 100577. <https://doi.org/10.1016/j.epidem.2022.100577>
+4.  Sanchez, F., Calvo, J. G., Mery, G., García, Y. E., Vásquez, P., Barboza, L. A., Pérez, M. D., & Rivas, T. (2022). A multilayer network model of Covid-19: Implications in public health policy in Costa Rica. *Epidemics*, 39(100577), 100577. <https://doi.org/10.1016/j.epidem.2022.100577>
 
-5.  García, Y. E., Mery, G., Vásquez, P., Calvo, J. G., Barboza, L. A., Rivas, T., & Sanchez, F. (2022). Projecting the impact of Covid-19 variants and vaccination strategies in disease transmission using a multilayer network model in Costa Rica. Scientific Reports, 12(1), 2279. <https://doi.org/10.1038/s41598-022-06236-1>
+5.  García, Y. E., Mery, G., Vásquez, P., Calvo, J. G., Barboza, L. A., Rivas, T., & Sanchez, F. (2022). Projecting the impact of Covid-19 variants and vaccination strategies in disease transmission using a multilayer network model in Costa Rica. *Scientific Reports*, 12(1), 2279. <https://doi.org/10.1038/s41598-022-06236-1>
 
-6.  Montesinos-López, J. C., Daza-Torres, M. L., García, Y. E., Barboza, L. A., Sanchez, F., Schmidt, A. J., Pollock, B. H., & Nuño, M. (2021). The role of SARS-CoV-2 testing on hospitalizations in California. Life (Basel, Switzerland), 11(12), 1336. <https://doi.org/10.3390/life11121336>
 
-7.  Barboza, L. A., Vásquez, P., Mery, G., Sanchez, F., García, Y. E., Calvo, J. G., Rivas, T., Pérez, M. D., & Salas, D. (2021). The role of mobility and sanitary measures on the delay of community transmission of COVID-19 in Costa Rica. Epidemiolgia (Basel, Switzerland), 2(3), 294--304. <https://doi.org/10.3390/epidemiologia2030022>
 
 ## Preprints
+
+1. Chou-Chen, S.-W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. <https://doi.org/10.48550/ARXIV.2302.06747>
 
 1.  Garcia, Y. E., Chou-Chen, S.-W., Barboza, L. A., Daza-Torres, M. L., Montesinos-Lopez, J. C., Vasquez, P., Calvo, J. G., Nuno, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A Wavelet Approach. <https://doi.org/10.48550/ARXIV.2301.02286>
 
