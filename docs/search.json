@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Luis A. Barboza",
@@ -12,13 +19,6 @@
     "title": "Luis A. Barboza",
     "section": "Education",
     "text": "Education\nPurdue University | Indiana, USA\nPhD Statistics | December 2012\nPurdue University | Indiana, USA\nMS Statistics with Specialization in Computational Finance | August 2011\nUniversidad de Costa Rica | San José, CR\nMSc Applied Mathematics | July 2007\nUniversidad de Costa Rica | San José, CR\nBachelor Actuarial Science | December 2003"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "research.html",
@@ -39,6 +39,6 @@
     "href": "research.html#preprints",
     "title": "Research",
     "section": "Preprints",
-    "text": "Preprints\n\nChou-Chen, S.-W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. https://doi.org/10.48550/ARXIV.2302.06747\nGarcia, Y. E., Chou-Chen, S.-W., Barboza, L. A., Daza-Torres, M. L., Montesinos-Lopez, J. C., Vasquez, P., Calvo, J. G., Nuno, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A Wavelet Approach. https://doi.org/10.48550/ARXIV.2301.02286\nGómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2022). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. https://doi.org/10.21203/rs.3.rs-2274291/v1\nBarboza, L. A., Chen, S. W. C., & Córdoba, M. A. (2022). Spatio-temporal downscaling emulator for regional Climate Models: A comparative study. https://doi.org/10.48550/ARXIV.2206.03914"
+    "text": "Preprints\n\nMonge-Rojas, R., Barboza, L.A., Vargas-Quesada, R. (2023). Effect of reducing the dietary intake of added sugars on the nutritional adequacy of vitamin A in urban and rural Costa Rican adolescents: A statistical causal model.\nChou-Chen, S.-W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. https://doi.org/10.48550/ARXIV.2302.06747\nGarcia, Y. E., Chou-Chen, S.-W., Barboza, L. A., Daza-Torres, M. L., Montesinos-Lopez, J. C., Vasquez, P., Calvo, J. G., Nuno, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A Wavelet Approach. https://doi.org/10.48550/ARXIV.2301.02286\nGómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2022). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. https://doi.org/10.21203/rs.3.rs-2274291/v1\nBarboza, L. A., Chen, S. W. C., & Córdoba, M. A. (2022). Spatio-temporal downscaling emulator for regional Climate Models: A comparative study. https://doi.org/10.48550/ARXIV.2206.03914"
   }
 ]
