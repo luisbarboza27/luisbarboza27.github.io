@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Luis A. Barboza",
@@ -19,6 +12,20 @@
     "title": "Luis A. Barboza",
     "section": "Education",
     "text": "Education\nPurdue University | Indiana, USA\nPhD Statistics | December 2012\nPurdue University | Indiana, USA\nMS Statistics with Specialization in Computational Finance | August 2011\nUniversidad de Costa Rica | San José, CR\nMSc Applied Mathematics | July 2007\nUniversidad de Costa Rica | San José, CR\nBachelor Actuarial Science | December 2003"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Modelos de Vida (CA0503): Notas de Clase."
   },
   {
     "objectID": "research.html",
