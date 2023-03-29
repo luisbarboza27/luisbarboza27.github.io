@@ -33,4 +33,4 @@ For a complete list of publications, please check my [ORCID user](https://orcid.
 
 3.  Gómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2022). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. <https://doi.org/10.21203/rs.3.rs-2274291/v1>
 
-4.  Barboza, L. A., Chen, S. W. C., & Córdoba, M. A. (2022). Spatio-temporal downscaling emulator for regional Climate Models: A comparative study. <https://doi.org/10.48550/ARXIV.2206.03914>
+4.  Barboza, L. A., Chen, S. W. C., Córdoba, M. A., Alfaro, E. J., & Hidalgo, H. G. (2022). Spatio-temporal downscaling emulator for regional Climate Models: A comparative study. <https://doi.org/10.48550/ARXIV.2206.03914>
