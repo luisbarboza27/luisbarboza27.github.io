@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Luis A. Barboza"
-  google-analytics: "G-6CLHX7DHCS"
+  google-analytics: "G-MLB1VF5ECW"
   navbar:
     left:
       - href: index.qmd
