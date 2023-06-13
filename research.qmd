@@ -14,7 +14,7 @@ title: "Research"
 For a complete list of publications, please check my [ORCID user](https://orcid.org/0000-0002-7009-5207) or [Google Scholar](https://scholar.google.com/citations?user=gzstLXwAAAAJ&hl=es).
 
 
-1. Barboza, L. A., Chen, S. W. C., Córdoba, M. A., Alfaro, E. J., & Hidalgo, H. G. (2022). Spatio-temporal downscaling emulator for regional climate models. *Environmetrics*. <https://onlinelibrary.wiley.com/doi/10.1002/env.2815>
+1. Barboza, L. A., Chen, S. W. C., Córdoba, M. A., Alfaro, E. J., & Hidalgo, H. G. (2023). Spatio-temporal downscaling emulator for regional climate models. *Environmetrics*. <https://onlinelibrary.wiley.com/doi/10.1002/env.2815>
 
 1. Gómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2023). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. *BMC Public Health*, 23(1), 651. <https://doi.org/10.1186/s12889-023-15486-1>
 
