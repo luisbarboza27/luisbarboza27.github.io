@@ -4,4 +4,4 @@ title: "Teaching"
 
 ## I Ciclo 2023
 
-- Modelos de Vida (CA0503): [Notas de Clase.](https://luisbarboza27.github.io/NotasSobrevivencia/)
+-   Distribuciones de Pérdidas (CA0409).

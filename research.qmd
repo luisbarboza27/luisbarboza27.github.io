@@ -4,6 +4,7 @@ title: "Research"
 
 ## Research Interests
 
+- Environmental Statistics.
 -   Bayesian estimation of spatio-temporal models.
 -   Space-State models and applications to Paleoclimate Reconstructions.
 -   Bayesian estimation of Dynamical Systems. Applications to epidemiological models.
@@ -13,29 +14,26 @@ title: "Research"
 
 For a complete list of publications, please check my [ORCID user](https://orcid.org/0000-0002-7009-5207) or [Google Scholar](https://scholar.google.com/citations?user=gzstLXwAAAAJ&hl=es).
 
+1.  Barboza, L. A., Chen, S. W. C., Córdoba, M. A., Alfaro, E. J., & Hidalgo, H. G. (2023). Spatio-temporal downscaling emulator for regional climate models. *Environmetrics*. <https://onlinelibrary.wiley.com/doi/10.1002/env.2815>
 
-1. Barboza, L. A., Chen, S. W. C., Córdoba, M. A., Alfaro, E. J., & Hidalgo, H. G. (2023). Spatio-temporal downscaling emulator for regional climate models. *Environmetrics*. <https://onlinelibrary.wiley.com/doi/10.1002/env.2815>
+2.  Gómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2023). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. *BMC Public Health*, 23(1), 651. <https://doi.org/10.1186/s12889-023-15486-1>
 
-1. Gómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2023). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. *BMC Public Health*, 23(1), 651. <https://doi.org/10.1186/s12889-023-15486-1>
+3.  Barboza, L. A., Chou-Chen, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. *PLoS Neglected Tropical Diseases*, 17(1), e0011047. <https://doi.org/10.1371/journal.pntd.0011047>
 
-1.  Barboza, L. A., Chou-Chen, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. *PLoS Neglected Tropical Diseases*, 17(1), e0011047. <https://doi.org/10.1371/journal.pntd.0011047>
+4.  Calvo, J. G., Sanchez, F., Barboza, L. A., García, Y. E., & Vásquez, P. (2022). An implementation of a multilayer network model for the Covid-19 pandemic: A Costa Rica study. *Mathematical Biosciences and Engineering: MBE*, 20(1), 534--551. <https://doi.org/10.3934/mbe.2023024>.
 
-2.  Calvo, J. G., Sanchez, F., Barboza, L. A., García, Y. E., & Vásquez, P. (2022). An implementation of a multilayer network model for the Covid-19 pandemic: A Costa Rica study. *Mathematical Biosciences and Engineering: MBE*, 20(1), 534--551. <https://doi.org/10.3934/mbe.2023024>.
+5.  Vásquez, P., Sanchez, F., Barboza, L. A., García, Y. E., Calvo, J. G., Chou-Chen, S.-W., & Mery, G. (2022). Mathematical and statistical models for the control of mosquito-borne diseases: the experience of Costa Rica. *Revista Panamericana de Salud Publica* \[Pan American Journal of Public Health\], 46, e113. <https://doi.org/10.26633/RPSP.2022.113>
 
-3.  Vásquez, P., Sanchez, F., Barboza, L. A., García, Y. E., Calvo, J. G., Chou-Chen, S.-W., & Mery, G. (2022). Mathematical and statistical models for the control of mosquito-borne diseases: the experience of Costa Rica. *Revista Panamericana de Salud Publica* \[Pan American Journal of Public Health\], 46, e113. <https://doi.org/10.26633/RPSP.2022.113>
+6.  Sanchez, F., Calvo, J. G., Mery, G., García, Y. E., Vásquez, P., Barboza, L. A., Pérez, M. D., & Rivas, T. (2022). A multilayer network model of Covid-19: Implications in public health policy in Costa Rica. *Epidemics*, 39(100577), 100577. <https://doi.org/10.1016/j.epidem.2022.100577>
 
-4.  Sanchez, F., Calvo, J. G., Mery, G., García, Y. E., Vásquez, P., Barboza, L. A., Pérez, M. D., & Rivas, T. (2022). A multilayer network model of Covid-19: Implications in public health policy in Costa Rica. *Epidemics*, 39(100577), 100577. <https://doi.org/10.1016/j.epidem.2022.100577>
-
-5.  García, Y. E., Mery, G., Vásquez, P., Calvo, J. G., Barboza, L. A., Rivas, T., & Sanchez, F. (2022). Projecting the impact of Covid-19 variants and vaccination strategies in disease transmission using a multilayer network model in Costa Rica. *Scientific Reports*, 12(1), 2279. <https://doi.org/10.1038/s41598-022-06236-1>
+7.  García, Y. E., Mery, G., Vásquez, P., Calvo, J. G., Barboza, L. A., Rivas, T., & Sanchez, F. (2022). Projecting the impact of Covid-19 variants and vaccination strategies in disease transmission using a multilayer network model in Costa Rica. *Scientific Reports*, 12(1), 2279. <https://doi.org/10.1038/s41598-022-06236-1>
 
 ## Preprints
 
-1. Gómez, M. J., Barboza, L. A., Hidalgo, H. G., & Alfaro, E. J. (2023). Comparison of indicators to evaluate the performance of climate models. <http://arxiv.org/abs/2307.04658>
+1.  Gómez, M. J., Barboza, L. A., Hidalgo, H. G., & Alfaro, E. J. (2023). Comparison of indicators to evaluate the performance of climate models. <http://arxiv.org/abs/2307.04658>
 
-1.  Monge-Rojas, R., Barboza, L.A., Vargas-Quesada, R. (2023). Effect of reducing the dietary intake of added sugars on the nutritional adequacy of vitamin A in urban and rural Costa Rican adolescents: A statistical causal model.
+2.  Monge-Rojas, R., Barboza, L.A., Vargas-Quesada, R. (2023). Effect of reducing the dietary intake of added sugars on the nutritional adequacy of vitamin A in urban and rural Costa Rican adolescents: A statistical causal model.
 
-2.  Chou-Chen, S.-W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. <https://doi.org/10.48550/ARXIV.2302.06747>
+3.  Chou-Chen, S.-W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. <https://doi.org/10.48550/ARXIV.2302.06747>
 
-3.  Garcia, Y. E., Chou-Chen, S.-W., Barboza, L. A., Daza-Torres, M. L., Montesinos-Lopez, J. C., Vasquez, P., Calvo, J. G., Nuno, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A Wavelet Approach. <https://doi.org/10.48550/ARXIV.2301.02286>
-
-
+4.  Garcia, Y. E., Chou-Chen, S.-W., Barboza, L. A., Daza-Torres, M. L., Montesinos-Lopez, J. C., Vasquez, P., Calvo, J. G., Nuno, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A Wavelet Approach. <https://doi.org/10.48550/ARXIV.2301.02286>

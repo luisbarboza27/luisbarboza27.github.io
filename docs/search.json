@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Distribuciones de Pérdidas (CA0409)."
+  },
+  {
+    "objectID": "teaching.html#i-ciclo-2023",
+    "href": "teaching.html#i-ciclo-2023",
+    "title": "Teaching",
+    "section": "",
+    "text": "Distribuciones de Pérdidas (CA0409)."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Luis A. Barboza",
@@ -14,25 +35,18 @@
     "text": "Education\nPurdue University | Indiana, USA\nPhD Statistics | December 2012\nPurdue University | Indiana, USA\nMS Statistics with Specialization in Computational Finance | August 2011\nUniversidad de Costa Rica | San José, CR\nMSc Applied Mathematics | July 2007\nUniversidad de Costa Rica | San José, CR\nBachelor Actuarial Science | December 2003"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Modelos de Vida (CA0503): Notas de Clase."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Bayesian estimation of spatio-temporal models.\nSpace-State models and applications to Paleoclimate Reconstructions.\nBayesian estimation of Dynamical Systems. Applications to epidemiological models.\nApplications of Statistical Learning techniques to epidemiological and climate modeling."
+    "text": "Environmental Statistics.\nBayesian estimation of spatio-temporal models.\nSpace-State models and applications to Paleoclimate Reconstructions.\nBayesian estimation of Dynamical Systems. Applications to epidemiological models.\nApplications of Statistical Learning techniques to epidemiological and climate modeling."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Environmental Statistics.\nBayesian estimation of spatio-temporal models.\nSpace-State models and applications to Paleoclimate Reconstructions.\nBayesian estimation of Dynamical Systems. Applications to epidemiological models.\nApplications of Statistical Learning techniques to epidemiological and climate modeling."
   },
   {
     "objectID": "research.html#recent-publications",
