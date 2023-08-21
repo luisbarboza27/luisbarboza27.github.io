@@ -2,6 +2,7 @@
 title: "Teaching"
 ---
 
-## I Ciclo 2023
+## II Ciclo 2023
 
--   Distribuciones de Pérdidas (CA0409).
+-   Distribuciones de Pérdidas (CA0409). [Notas de Clase](https://luisbarboza27.github.io/NotasDistribuciones/)
+    
