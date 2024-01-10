@@ -14,25 +14,20 @@ title: "Research"
 
 For a complete list of publications, please check my [ORCID user](https://orcid.org/0000-0002-7009-5207) or [Google Scholar](https://scholar.google.com/citations?user=gzstLXwAAAAJ&hl=es).
 
-1. Monge-Rojas, R., Barboza, L. A., & Vargas-Quesada, R. (2023). Reducing dietary intake of added sugars could affect the nutritional adequacy of vitamin A in adolescents: the Costa Rica case. *BMC Public Health*, **23**, 2503. <https://doi.org/10.1186/s12889-023-17243-w>
+1.  Monge-Rojas, R., Barboza, L. A., & Vargas-Quesada, R. (2023). Reducing dietary intake of added sugars could affect the nutritional adequacy of vitamin A in adolescents: the Costa Rica case. *BMC Public Health*, **23**, 2503. <https://doi.org/10.1186/s12889-023-17243-w>
 
+2.  Chou-Chen, S. W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. *Environmental and Ecological Statistics*. <https://doi.org/10.1007/s10651-023-00580-9>
 
-1. Chou-Chen, S. W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. *Environmental and Ecological Statistics*. <https://doi.org/10.1007/s10651-023-00580-9>
+3.  García, Y. E., Chou-Chen, S. W., Barboza, L. A., Daza-Torres, M. L., Montesinos-López, J. C., Vásquez, P., Calvo, J. G., Nuño, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A wavelet approach. *PLOS Global Public Health*, 3(10), e0002417. <https://doi.org/10.1371/journal.pgph.0002417>
 
-1. García, Y. E., Chou-Chen, S. W., Barboza, L. A., Daza-Torres, M. L., Montesinos-López, J. C., Vásquez, P., Calvo, J. G., Nuño, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A wavelet approach. *PLOS Global Public Health*, 3(10), e0002417. <https://doi.org/10.1371/journal.pgph.0002417>
+4.  Barboza, L. A., Chou Chen, S. W., Alfaro Córdoba, M., Alfaro, E. J., & Hidalgo, H. G. (2023). Spatio‐temporal downscaling emulator for regional climate models. *Environmetrics*, 34(7). <https://doi.org/10.1002/env.2815>
 
-1.  Barboza, L. A., Chou Chen, S. W., Alfaro Córdoba, M., Alfaro, E. J., & Hidalgo, H. G. (2023). Spatio‐temporal downscaling emulator for regional climate models. *Environmetrics*, 34(7). <https://doi.org/10.1002/env.2815>
+5.  Gómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2023). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. *BMC Public Health*, 23(1), 651. <https://doi.org/10.1186/s12889-023-15486-1>
 
-2.  Gómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2023). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. *BMC Public Health*, 23(1), 651. <https://doi.org/10.1186/s12889-023-15486-1>
-
-3.  Barboza, L. A., Chou-Chen, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. *PLoS Neglected Tropical Diseases*, 17(1), e0011047. <https://doi.org/10.1371/journal.pntd.0011047>
-
+6.  Barboza, L. A., Chou-Chen, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. *PLoS Neglected Tropical Diseases*, 17(1), e0011047. <https://doi.org/10.1371/journal.pntd.0011047>
 
 ## Preprints
 
+1. Chou-Chen, S. W., & Barboza, L. A. (2024). Forecasting hospital discharges for respiratory conditions in Costa Rica using climate and pollution data. <http://arxiv.org/abs/2401.03101>
+
 1.  Gómez, M. J., Barboza, L. A., Hidalgo, H. G., & Alfaro, E. J. (2023). Comparison of indicators to evaluate the performance of climate models. <http://arxiv.org/abs/2307.04658>
-
-
-
-
-
