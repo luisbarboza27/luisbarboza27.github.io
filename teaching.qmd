@@ -4,4 +4,4 @@ title: "Teaching"
 
 ## I Ciclo 2024
 
--   TBA
+-   Inferencia Bayesiana (XS0128) [Notas de clase](<https://luisbarboza27.github.io/EstadisticaBayesiana/>)

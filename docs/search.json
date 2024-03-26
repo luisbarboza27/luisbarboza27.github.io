@@ -25,7 +25,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "TBA"
+    "text": "Inferencia Bayesiana (XS0128) Notas de clase"
   },
   {
     "objectID": "teaching.html#ii-ciclo-2023",
@@ -53,7 +53,7 @@
     "href": "research.html#recent-publications",
     "title": "Research",
     "section": "Recent Publications",
-    "text": "Recent Publications\nFor a complete list of publications, please check my ORCID user or Google Scholar.\n\nMonge-Rojas, R., Barboza, L. A., & Vargas-Quesada, R. (2023). Reducing dietary intake of added sugars could affect the nutritional adequacy of vitamin A in adolescents: the Costa Rica case. BMC Public Health, 23, 2503. https://doi.org/10.1186/s12889-023-17243-w\nChou-Chen, S. W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. Environmental and Ecological Statistics. https://doi.org/10.1007/s10651-023-00580-9\nGarcía, Y. E., Chou-Chen, S. W., Barboza, L. A., Daza-Torres, M. L., Montesinos-López, J. C., Vásquez, P., Calvo, J. G., Nuño, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A wavelet approach. PLOS Global Public Health, 3(10), e0002417. https://doi.org/10.1371/journal.pgph.0002417\nBarboza, L. A., Chou Chen, S. W., Alfaro Córdoba, M., Alfaro, E. J., & Hidalgo, H. G. (2023). Spatio‐temporal downscaling emulator for regional climate models. Environmetrics, 34(7). https://doi.org/10.1002/env.2815\nGómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2023). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. BMC Public Health, 23(1), 651. https://doi.org/10.1186/s12889-023-15486-1\nBarboza, L. A., Chou-Chen, S.-W., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques. PLoS Neglected Tropical Diseases, 17(1), e0011047. https://doi.org/10.1371/journal.pntd.0011047"
+    "text": "Recent Publications\nFor a complete list of publications, please check my ORCID user or Google Scholar.\n\nOrozco-Aguilar, L., López-Sampson, A., Barboza, L. A., Borda, M. J., Leandro-Muñoz, M. E., Bordeaux, M., Cerda, R. H., Villega, E. A., & Somarriba, E. (2024). Risk analysis and cacao pod survivorship curves to improve yield forecasting methods. Frontiers in Agronomy, 6. https://doi.org/10.3389/fagro.2024.1290035\nMonge-Rojas, R., Barboza, L. A., & Vargas-Quesada, R. (2023). Reducing dietary intake of added sugars could affect the nutritional adequacy of vitamin A in adolescents: the Costa Rica case. BMC Public Health, 23, 2503. https://doi.org/10.1186/s12889-023-17243-w\nChou-Chen, S. W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. Environmental and Ecological Statistics. https://doi.org/10.1007/s10651-023-00580-9\nGarcía, Y. E., Chou-Chen, S. W., Barboza, L. A., Daza-Torres, M. L., Montesinos-López, J. C., Vásquez, P., Calvo, J. G., Nuño, M., & Sanchez, F. (2023). Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A wavelet approach. PLOS Global Public Health, 3(10), e0002417. https://doi.org/10.1371/journal.pgph.0002417\nBarboza, L. A., Chou Chen, S. W., Alfaro Córdoba, M., Alfaro, E. J., & Hidalgo, H. G. (2023). Spatio‐temporal downscaling emulator for regional climate models. Environmetrics, 34(7). https://doi.org/10.1002/env.2815\nGómez, M. J., Barboza, L. A., Vásquez, P., & Moraga, P. (2023). Bayesian spatial modeling of childhood overweight and obesity prevalence in Costa Rica. BMC Public Health, 23(1), 651. https://doi.org/10.1186/s12889-023-15486-1"
   },
   {
     "objectID": "research.html#preprints",
@@ -67,6 +67,6 @@
     "href": "teaching.html#i-ciclo-2024",
     "title": "Teaching",
     "section": "",
-    "text": "TBA"
+    "text": "Inferencia Bayesiana (XS0128) Notas de clase"
   }
 ]
