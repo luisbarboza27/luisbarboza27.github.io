@@ -16,7 +16,7 @@ about:
       href: CV_LB.pdf
 ---
 
-Luis A. Barboza is professor and researcher in the [Mathematics Department](http://www.emate.ucr.ac.cr/) and [Centro de Investigación en Matemática Pura y Aplicada](http://cimpa.ucr.ac.cr/) at the [Universidad de Costa Rica](https://www.ucr.ac.cr/).
+Luis A. Barboza is professor and researcher in the [Escuela de Matemática](http://www.emate.ucr.ac.cr/) and [Centro de Investigación en Matemática Pura y Aplicada](http://cimpa.ucr.ac.cr/) at the [Universidad de Costa Rica](https://www.ucr.ac.cr/).
 
 ## Education
 
