@@ -2,6 +2,6 @@
 title: "Teaching"
 ---
 
-## I Ciclo 2024
+## II Ciclo 2024
 
--   Inferencia Bayesiana (XS0128) [Notas de clase](<https://luisbarboza27.github.io/EstadisticaBayesiana/>)
+<!-- -   Inferencia Bayesiana (XS0128) [Notas de clase](<https://luisbarboza27.github.io/EstadisticaBayesiana/>) -->
