@@ -4,4 +4,6 @@ title: "Teaching"
 
 ## II Ciclo 2024
 
-<!-- -   Inferencia Bayesiana (XS0128) [Notas de clase](<https://luisbarboza27.github.io/EstadisticaBayesiana/>) -->
+-   Series de Tiempo (CA0415) [Notas de clase](<https://luisbarboza27.github.io/SeriesTiempo/>)
+
+- Modelos Mixtos (SP1653) [Notas de clase](<https://luisbarboza27.github.io/ModelosMixtos/>)
