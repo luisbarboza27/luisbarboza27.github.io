@@ -14,16 +14,15 @@ title: "Research"
 
 For a complete list of publications, please check my [ORCID user](https://orcid.org/0000-0002-7009-5207) or [Google Scholar](https://scholar.google.com/citations?user=gzstLXwAAAAJ&hl=es).
 
-1.  Gómez, M. J., Barboza, L. A., Hidalgo, H. G., & Alfaro, E. J. (2024). Comparison of indicators to evaluate the performance of climate models. *International Journal of Climatology*, 1–18. <https://doi.org/10.1002/joc.8619>
+1.  Gómez, M. J., Barboza, L. A., Hidalgo, H. G., & Alfaro, E. J. (2024). Comparison of indicators to evaluate the performance of climate models. *International Journal of Climatology*, 44(13), 4907–4924. <https://doi.org/10.1002/joc.8619>
 
-1.  Chou-Chen, S. W., Barboza, L. A. (2024) Forecasting hospital discharges for respiratory conditions in Costa Rica using climate and pollution data. *Mathematical Biosciences and Engineering*, 21(7): 6539-6558. <https://doi.org/10.3934/mbe.2024285>
 
-2.  Orozco-Aguilar, L., López-Sampson, A., Barboza, L. A., Borda, M. J., Leandro-Muñoz, M. E., Bordeaux, M., Cerda, R. H., Villega, E. A., & Somarriba, E. (2024). Risk analysis and cacao pod survivorship curves to improve yield forecasting methods. *Frontiers in Agronomy*, 6. <https://doi.org/10.3389/fagro.2024.1290035>
+2.  Chou-Chen, S. W., Barboza, L. A. (2024) Forecasting hospital discharges for respiratory conditions in Costa Rica using climate and pollution data. *Mathematical Biosciences and Engineering*, 21(7): 6539-6558. <https://doi.org/10.3934/mbe.2024285>
 
-3.  Monge-Rojas, R., Barboza, L. A., & Vargas-Quesada, R. (2023). Reducing dietary intake of added sugars could affect the nutritional adequacy of vitamin A in adolescents: the Costa Rica case. *BMC Public Health*, **23**, 2503. <https://doi.org/10.1186/s12889-023-17243-w>
+3.  Orozco-Aguilar, L., López-Sampson, A., Barboza, L. A., Borda, M. J., Leandro-Muñoz, M. E., Bordeaux, M., Cerda, R. H., Villega, E. A., & Somarriba, E. (2024). Risk analysis and cacao pod survivorship curves to improve yield forecasting methods. *Frontiers in Agronomy*, 6. <https://doi.org/10.3389/fagro.2024.1290035>
 
-4.  Chou-Chen, S. W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. *Environmental and Ecological Statistics*. <https://doi.org/10.1007/s10651-023-00580-9>
+4.  Monge-Rojas, R., Barboza, L. A., & Vargas-Quesada, R. (2023). Reducing dietary intake of added sugars could affect the nutritional adequacy of vitamin A in adolescents: the Costa Rica case. *BMC Public Health*, **23**, 2503. <https://doi.org/10.1186/s12889-023-17243-w>
 
+5.  Chou-Chen, S. W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., & Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. *Environmental and Ecological Statistics*. <https://doi.org/10.1007/s10651-023-00580-9>
 
 ## Preprints
-
