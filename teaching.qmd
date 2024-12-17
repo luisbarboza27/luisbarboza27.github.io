@@ -2,8 +2,6 @@
 title: "Teaching"
 ---
 
-## II Ciclo 2024
+## I Ciclo 2025
 
--   Series de Tiempo (CA0415) [Notas de clase](<https://luisbarboza27.github.io/SeriesTiempo/>)
-
-- Modelos Mixtos (SP1653) [Notas de clase](<https://luisbarboza27.github.io/ModelosMixtos/>)
+-   TBA
