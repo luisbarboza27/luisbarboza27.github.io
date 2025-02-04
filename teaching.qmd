@@ -4,4 +4,5 @@ title: "Teaching"
 
 ## I Ciclo 2025
 
--   TBA
+- Estadística Bayesiana (Escuela de Estadística)
+- Modelos Lineales y de Sobrevivencia (Escuela de Matemática)
