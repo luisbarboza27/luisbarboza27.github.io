@@ -4,5 +4,5 @@ title: "Teaching"
 
 ## I Ciclo 2025
 
-- Estadística Bayesiana (Escuela de Estadística)
+- Estadística Bayesiana (Escuela de Estadística) [Notas de Clase](https://luisbarboza27.github.io/InferenciaBayesiana/)
 - Modelos Lineales y de Sobrevivencia (Escuela de Matemática)

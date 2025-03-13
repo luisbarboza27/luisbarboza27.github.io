@@ -16,7 +16,6 @@ For a complete list of publications, please check my [ORCID user](https://orcid.
 
 1.  Gómez, M. J., Barboza, L. A., Hidalgo, H. G., & Alfaro, E. J. (2024). Comparison of indicators to evaluate the performance of climate models. *International Journal of Climatology*, 44(13), 4907–4924. <https://doi.org/10.1002/joc.8619>
 
-
 2.  Chou-Chen, S. W., Barboza, L. A. (2024) Forecasting hospital discharges for respiratory conditions in Costa Rica using climate and pollution data. *Mathematical Biosciences and Engineering*, 21(7): 6539-6558. <https://doi.org/10.3934/mbe.2024285>
 
 3.  Orozco-Aguilar, L., López-Sampson, A., Barboza, L. A., Borda, M. J., Leandro-Muñoz, M. E., Bordeaux, M., Cerda, R. H., Villega, E. A., & Somarriba, E. (2024). Risk analysis and cacao pod survivorship curves to improve yield forecasting methods. *Frontiers in Agronomy*, 6. <https://doi.org/10.3389/fagro.2024.1290035>
