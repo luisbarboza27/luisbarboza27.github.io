@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-df479d6c4d77d0e0dfbcb5361179d7fd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -175,12 +175,13 @@ ga('send', {
 <li><p>Gómez, M. J., Barboza, L. A., Hidalgo, H. G., &amp; Alfaro, E. J. (2024). Comparison of indicators to evaluate the performance of climate models. <em>International Journal of Climatology</em>, 44(13), 4907–4924. <a href="https://doi.org/10.1002/joc.8619" class="uri">https://doi.org/10.1002/joc.8619</a></p></li>
 <li><p>Chou-Chen, S. W., Barboza, L. A. (2024) Forecasting hospital discharges for respiratory conditions in Costa Rica using climate and pollution data. <em>Mathematical Biosciences and Engineering</em>, 21(7): 6539-6558. <a href="https://doi.org/10.3934/mbe.2024285" class="uri">https://doi.org/10.3934/mbe.2024285</a></p></li>
 <li><p>Orozco-Aguilar, L., López-Sampson, A., Barboza, L. A., Borda, M. J., Leandro-Muñoz, M. E., Bordeaux, M., Cerda, R. H., Villega, E. A., &amp; Somarriba, E. (2024). Risk analysis and cacao pod survivorship curves to improve yield forecasting methods. <em>Frontiers in Agronomy</em>, 6. <a href="https://doi.org/10.3389/fagro.2024.1290035" class="uri">https://doi.org/10.3389/fagro.2024.1290035</a></p></li>
-<li><p>Monge-Rojas, R., Barboza, L. A., &amp; Vargas-Quesada, R. (2023). Reducing dietary intake of added sugars could affect the nutritional adequacy of vitamin A in adolescents: the Costa Rica case. <em>BMC Public Health</em>, <strong>23</strong>, 2503. <a href="https://doi.org/10.1186/s12889-023-17243-w" class="uri">https://doi.org/10.1186/s12889-023-17243-w</a></p></li>
-<li><p>Chou-Chen, S. W., Barboza, L. A., Vásquez, P., García, Y. E., Calvo, J. G., Hidalgo, H. G., &amp; Sanchez, F. (2023). Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica. <em>Environmental and Ecological Statistics</em>. <a href="https://doi.org/10.1007/s10651-023-00580-9" class="uri">https://doi.org/10.1007/s10651-023-00580-9</a></p></li>
 </ol>
 </section>
 <section id="preprints" class="level2">
 <h2 class="anchored" data-anchor-id="preprints">Preprints</h2>
+<ol type="1">
+<li>Camacho, M., Cedeño, A., Barboza, L. A., Chou-Chen, S. W., Gómez, M. J., &amp; Hidalgo, H. G. (2025). Hurricane Impact Index for assessing direct and indirect hazards in Central America. <a href="https://doi.org/10.21203/rs.3.rs-6896107/v1" class="uri">https://doi.org/10.21203/rs.3.rs-6896107/v1</a></li>
+</ol>
 
 
 </section>
@@ -268,8 +269,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -380,7 +379,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
