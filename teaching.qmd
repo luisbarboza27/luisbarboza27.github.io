@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-## I Ciclo 2025
+## II Ciclo 2025
 
-- Estadística Bayesiana (Escuela de Estadística) [Notas de Clase](https://luisbarboza27.github.io/InferenciaBayesiana/)
-- Modelos Lineales y de Sobrevivencia (Escuela de Matemática)[Notas de Clase](https://luisbarboza27.github.io/ModelosLinealesSobrev/)
+- Series de Tiempo (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/SeriesTiempo/)
+- Modelos Mixtos (Posgrado de Estadística) [Notas de Clase](https://luisbarboza27.github.io/ModelosMixtos/)
