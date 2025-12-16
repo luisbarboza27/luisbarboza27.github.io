@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-## II Ciclo 2025
+## I Ciclo 2026
 
-- Series de Tiempo (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/SeriesTiempo/)
-- Modelos Mixtos (Posgrado de Estadística) [Notas de Clase](https://luisbarboza27.github.io/ModelosMixtos/)
+<!-- -   Series de Tiempo (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/SeriesTiempo/) -->
+<!-- -   Modelos Mixtos (Posgrado de Estadística) [Notas de Clase](https://luisbarboza27.github.io/ModelosMixtos/) -->
