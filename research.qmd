@@ -20,6 +20,8 @@ For a complete list of publications, please check my [ORCID user](https://orcid.
 
 ## Preprints
 
+1. Cao, V., Chou-Chen, S. W., Barboza, L. A. (2025). Functional Data Analysis of Climate and Pollution Impacts on Respiratory Hospitalizations in Costa Rica.
+
 1. Pasquier, C. and Barboza, L.A. (2025). Amortized Bayesian inference for spatio-temporal extremes: A copula factor model with autoregression. <http://arxiv.org/abs/2510.02618>
 
 
