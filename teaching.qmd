@@ -4,5 +4,6 @@ title: "Teaching"
 
 ## I Ciclo 2026
 
-<!-- -   Series de Tiempo (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/SeriesTiempo/) -->
+-   Álgebra Lineal (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/AlgebraLineal/)
+
 <!-- -   Modelos Mixtos (Posgrado de Estadística) [Notas de Clase](https://luisbarboza27.github.io/ModelosMixtos/) -->
