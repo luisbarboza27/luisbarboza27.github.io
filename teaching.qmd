@@ -6,4 +6,4 @@ title: "Teaching"
 
 -   Álgebra Lineal (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/AlgebraLineal/)
 
-<!-- -   Modelos Mixtos (Posgrado de Estadística) [Notas de Clase](https://luisbarboza27.github.io/ModelosMixtos/) -->
+-   Modelos Lineales y de Sobrevivencia (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/ModelosLinealesSobrev/)
