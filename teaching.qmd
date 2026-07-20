@@ -2,8 +2,10 @@
 title: "Teaching"
 ---
 
-## I Ciclo 2026
+## II Ciclo 2026
 
--   Álgebra Lineal (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/AlgebraLineal/)
+- Series de Tiempo (Escuela de Matemática)
+<!-- -   Álgebra Lineal (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/AlgebraLineal/) -->
 
--   Modelos Lineales y de Sobrevivencia (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/ModelosLinealesSobrev/)
+- Modelos Mixtos (Posgrado en Estadística)
+<!-- -   Modelos Lineales y de Sobrevivencia (Escuela de Matemática) [Notas de Clase](https://luisbarboza27.github.io/ModelosLinealesSobrev/) -->
